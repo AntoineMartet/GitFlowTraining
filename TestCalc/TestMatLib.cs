@@ -117,7 +117,7 @@ namespace TestCalc
         {
             //given
             this.op1 = 3;
-            this.op2 =27;
+            this.op2 = 27;
             float expectedResult = 9;
             float actualResult;
 
